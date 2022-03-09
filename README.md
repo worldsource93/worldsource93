@@ -17,4 +17,4 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=74d2e7&height=200&section=footer&text=root:exit&textBg=ffffff&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=74d2e7&height=200&section=footer&text=root:exit&textBg=true&fontSize=40&animation=twinkling" />
