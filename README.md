@@ -70,13 +70,13 @@
 ### 📚Books📚
 #### Reading
 <div>
-  <img src="https://img.shields.io/badge/객체지향의 사실과 오해-f9e498?style=flat-square" alt="객체지향의 사실과 오해 badge" />
-  <img src="https://img.shields.io/badge/모던 자바스크립트 Deep Dive-2b80ff?style=flat-square" alt="모던 자바스크립트 Deep Dive badge" />
+  <img src="https://img.shields.io/badge/객체지향의 사실과 오해-f2f6fa?style=flat-square" alt="객체지향의 사실과 오해 badge" />
+  <img src="https://img.shields.io/badge/모던 자바스크립트 Deep Dive-f2f6fa?style=flat-square" alt="모던 자바스크립트 Deep Dive badge" />
 </div>
 
 #### Read
 <div>
-  <img src="https://img.shields.io/badge/코어 자바스크립트-dbe0e3?style=flat-square" alt="코어 자바스크립트 badge" />
+  <img src="https://img.shields.io/badge/코어 자바스크립트-f2f6fa?style=flat-square" alt="코어 자바스크립트 badge" />
   <img src="https://img.shields.io/badge/함께 자라기 애자일로 가는 길-34bf49?style=flat-square" alt="함께 자라기 애자일로 가는 길 badge" />
   <img src="https://img.shields.io/badge/소프트웨어 장인-caccd1?style=flat-square" alt="소프트웨어 장인 badge" />
 </div>
@@ -84,6 +84,11 @@
 
 #### List
 <div>
+  <img src="https://img.shields.io/badge/리팩토링 2판-181717?style=flat-square" alt="리팩토링 2판 badge" />
+  <img src="https://img.shields.io/badge/Clean Code-ffffff?style=flat-square" alt="Clean Code badge" />
+  <img src="https://img.shields.io/badge/만들면서 배우는 클린 아키텍쳐-f2f6fa?style=flat-square" alt="만들면서 배우는 클린 아키텍쳐 badge" />
+  <img src="https://img.shields.io/badge/테스트 주도 개발-f2f6fa?style=flat-square" alt="테스트 주도 개발 badge" />
+  <img src="https://img.shields.io/badge/웹 개발자를 위한 대규모 서비스를 지탱하는 기술-f2f6fa?style=flat-square" alt="웹 개발자를 위한 대규모 서비스를 지탱하는 기술 badge" />
 </div>
 
 
