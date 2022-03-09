@@ -44,14 +44,14 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" alt="Typescript badge" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white" alt="Svelte badge" />
   <br />
-  
-  <br />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js badge" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" alt="Nuxt.js badge" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" alt="NestJS badge" />
+  <br />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" alt="Redux badge" />
   <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat-square&logo=Redux-saga&logoColor=white" alt="Redux-saga badge" />
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white" alt="mobx badge" />
+  <br />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white" alt="Three.js badge" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white" alt="D3.js badge" />
   <br />
