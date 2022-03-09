@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=74d2e7&height=250&section=header&text=root:enterance&fontColor=ffffff&fontSize=40" />
-
 [![worldsource93's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldsource93&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
