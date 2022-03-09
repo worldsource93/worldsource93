@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=Leaflet&logoColor=white" alt="Leaflet badge" />
   <img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" alt="i18next badge" />
   <br />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" alt="ESLint badge" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white" alt="Prettier badge" />
+  <br />
   <img src="https://img.shields.io/badge/Mui-007FFF?style=flat-square&logo=Mui&logoColor=white" alt="Mui badge" />
 </div>
 
