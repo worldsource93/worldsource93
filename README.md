@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=74d2e7&height=250&section=header&text=root:enterance&fontColor=ffffff&fontSize=40" />
 
----
-
 ### 💻Skills💻
 
 <div>
@@ -17,9 +15,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL badge" />
 </div>
 
----
+<br />
 
-### Available library
+### 💡Available library💡
 <div>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white" alt="Babel badge" />
   <br />
