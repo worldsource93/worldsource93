@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=lightgrey&height=300&section=header&text=구일신 일일신 우일신&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=74d2e7&height=300&section=header&text=구일신 일일신 우일신&fontSize=40&fontColor=white" />
 
 ### 💻Skills💻
 
