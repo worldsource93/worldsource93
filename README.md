@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=74d2e7&height=300&section=header&text=Postive mindset&fontColor=ffffff&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=74d2e7&height=300&section=header&text=root&fontColor=ffffff&fontSize=40" />
 
 ### 💻Skills💻
 
