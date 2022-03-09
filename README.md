@@ -69,7 +69,7 @@
 
 ### 📚Books📚
 <div>
-  
+  <img src="https://img.shields.io/badge/함께 자라기 애자일로 가는 길-06B6D4?style=flat-square" alt="함께 자라기 애자일로 가는 길 badge" />
 </div>
 
 <br />
