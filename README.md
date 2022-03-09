@@ -82,7 +82,7 @@
 </div>
 <br />
 
-#### List
+#### Waiting
 <div>
   <img src="https://img.shields.io/badge/리팩토링 2판-f2f6fa?style=flat-square" alt="리팩토링 2판 badge" />
   <img src="https://img.shields.io/badge/Clean Code-f2f6fa?style=flat-square" alt="Clean Code badge" />
