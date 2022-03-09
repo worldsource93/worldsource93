@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=74d2e7&height=300&section=header&text=root&fontColor=ffffff&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=74d2e7&height=300&section=header&text=root:enterance&fontColor=ffffff&fontSize=40" />
 
 ### 💻Skills💻
 
@@ -17,3 +17,4 @@
 </div>
 
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=74d2e7&height=300&section=footer&text=root:exit&fontSize=40" />
