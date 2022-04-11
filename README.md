@@ -10,6 +10,7 @@
 ### 💻Skills💻
 
 <div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React badge" />
   <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=JavaScript&logoColor=white" alt="Javascript badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/CSS3-037ef3?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3 badge" />
@@ -28,7 +29,6 @@
 <div>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white" alt="Babel badge" />
   <br />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React badge" />
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white" alt="React Query badge" />
   <br/>
 <!--   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring badge" />
