@@ -16,10 +16,10 @@
 <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Java&logoColor=white" alt="Node.js badge" /> -->
 <!--   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java badge" /> -->
   <br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS badge" />
+<!--   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS badge" />
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" alt="Git badge" />
   <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL badge" /> -->
 </div>
 
 <br />
