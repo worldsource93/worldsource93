@@ -100,6 +100,6 @@
   <img src="https://img.shields.io/badge/웹 개발자를 위한 대규모 서비스를 지탱하는 기술-f2f6fa?style=flat-square" alt="웹 개발자를 위한 대규모 서비스를 지탱하는 기술 badge" />
 </div>
 
-<br />
+<!-- <br />
  
-<img src="https://capsule-render.vercel.app/api?type=soft&color=01cd74&height=150&section=footer&text=root:exit&fontColor=ffffff&fontSize=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=01cd74&height=150&section=footer&text=root:exit&fontColor=ffffff&fontSize=40&animation=twinkling" /> -->
