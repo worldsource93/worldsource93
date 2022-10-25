@@ -90,7 +90,8 @@
 
 #### Reading
 <div>
-  <img src="https://img.shields.io/badge/오브젝트-f2f6fa?style=flat-square" alt=" badge" />
+  <img src="https://img.shields.io/badge/오브젝트-f2f6fa?style=flat-square" alt="Object" />
+  <img src="https://img.shields.io/badge/대시보드 설계와 데이터 시각화-f2f6fa?style=flat-square" alt="대시보드 설계와 데이터 시각화" />
 </div>
 
 #### Waiting
