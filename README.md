@@ -78,6 +78,7 @@
 
 #### Read
 <div>
+  <img src="https://img.shields.io/badge/YOU DON'T KNOW JS-f2f6fa?style=flat-square" alt="YOU DON'T KNOW JS badge" />
   <img src="https://img.shields.io/badge/코어 자바스크립트-f2f6fa?style=flat-square" alt="코어 자바스크립트 badge" />
   <img src="https://img.shields.io/badge/모던 자바스크립트 Deep Dive-f2f6fa?style=flat-square" alt="모던 자바스크립트 Deep Dive badge" />
   
@@ -86,17 +87,24 @@
   
   <img src="https://img.shields.io/badge/함께 자라기 애자일로 가는 길-f2f6fa?style=flat-square" alt="함께 자라기 애자일로 가는 길 badge" />
   <img src="https://img.shields.io/badge/소프트웨어 장인-f2f6fa?style=flat-square" alt="소프트웨어 장인 badge" />
+  <img src="https://img.shields.io/badge/개발자를 위한 글쓰기 가이드-f2f6fa?style=flat-square" alt="개발자를 위한 글쓰기 가이드 badge" />
+  <img src="https://img.shields.io/badge/대시보드 설계와 데이터 시각화-f2f6fa?style=flat-square" alt="대시보드 설계와 데이터 시각화 badge" />
 </div>
 
 #### Reading
 <div>
-  <img src="https://img.shields.io/badge/오브젝트-f2f6fa?style=flat-square" alt="Object" />
-  <img src="https://img.shields.io/badge/대시보드 설계와 데이터 시각화-f2f6fa?style=flat-square" alt="대시보드 설계와 데이터 시각화" />
+  <img src="https://img.shields.io/badge/이펙티브 타입스크립트-f2f6fa?style=flat-square" alt="이펙티브 타입스크립트 badge" />
+  <img src="https://img.shields.io/badge/HTTP 완벽가이드-f2f6fa?style=flat-square" alt="HTTP 완벽 가이드 badge" />
+  <img src="https://img.shields.io/badge/시스코 네크워킹-f2f6fa?style=flat-square" alt="시스코 네트워킹 badge" />
+  <img src="https://img.shields.io/badge/오브젝트-f2f6fa?style=flat-square" alt="Object badge" />
 </div>
 
 #### Waiting
 <div>
+  <img src="https://img.shields.io/badge/함수형 자바스크립트 프로그래밍-f2f6fa?style=flat-square" alt="함수형 자바스크립트 프로그래밍 badge" />
+  <img src="https://img.shields.io/badge/헤드퍼스트 디자인패턴-f2f6fa?style=flat-square" alt="헤드퍼스트 디자인패턴 badge" />
   <img src="https://img.shields.io/badge/Clean Code-f2f6fa?style=flat-square" alt="Clean Code badge" />
+  <img src="https://img.shields.io/badge/리액트를 다루는 기술-f2f6fa?style=flat-square" alt="리액트를 다루는 기술 badge" />
   <img src="https://img.shields.io/badge/만들면서 배우는 클린 아키텍쳐-f2f6fa?style=flat-square" alt="만들면서 배우는 클린 아키텍쳐 badge" />
   <img src="https://img.shields.io/badge/테스트 주도 개발-f2f6fa?style=flat-square" alt="테스트 주도 개발 badge" />
   <img src="https://img.shields.io/badge/웹 개발자를 위한 대규모 서비스를 지탱하는 기술-f2f6fa?style=flat-square" alt="웹 개발자를 위한 대규모 서비스를 지탱하는 기술 badge" />
