@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/worldsource93"
+  width="600"
+  height="300"
+/>
+</a>
+
 [![worldsource93's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldsource93&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
