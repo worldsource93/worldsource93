@@ -8,7 +8,7 @@
 
 
 [![worldsource93's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldsource93&theme=white&line_height=24&hide_rank=true&layout=compact)](https://github.com/worldsource93/worldsource93)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worldsource93&layout=compact&langs_count=8&theme=white)](https://github.com/worldsource93?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worldsource93&layout=compact&langs_count=6&theme=white)](https://github.com/worldsource93?tab=repositories)
 
 <a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/worldsource93" />
