@@ -6,12 +6,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0066ff?logo=postgresql&logoColor=white&style=flat)
 ![D3.js](https://img.shields.io/badge/d3.js-ef7234?logo=d3&logoColor=white&style=flat)
 
-
-// [![worldsource93's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldsource93&theme=white&line_height=24&hide_rank=true&layout=compact)](https://github.com/worldsource93/worldsource93)
-// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worldsource93&layout=compact&langs_count=6&theme=white)](https://github.com/worldsource93?tab=repositories)
-
-[![hits](https://https://github.com/worldsource93/worldsource93?color=blue&label=hits&size=small)](https://github.com/worldsource93/worldsource93)
-
 <a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/worldsource93" />
 </a>
