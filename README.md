@@ -6,6 +6,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0066ff?logo=postgresql&logoColor=white&style=flat)
 ![D3.js](https://img.shields.io/badge/d3.js-ef7234?logo=d3&logoColor=white&style=flat)
 
+<img alt="Hits" src="https://hits.sh/github.com/worldsource93.svg?view=today-total">
+
 <a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/worldsource93" />
 </a>
