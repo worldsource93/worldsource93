@@ -7,8 +7,10 @@
 ![D3.js](https://img.shields.io/badge/d3.js-ef7234?logo=d3&logoColor=white&style=flat)
 
 
-[![worldsource93's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldsource93&theme=white&line_height=24&hide_rank=true&layout=compact)](https://github.com/worldsource93/worldsource93)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worldsource93&layout=compact&langs_count=6&theme=white)](https://github.com/worldsource93?tab=repositories)
+// [![worldsource93's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldsource93&theme=white&line_height=24&hide_rank=true&layout=compact)](https://github.com/worldsource93/worldsource93)
+// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worldsource93&layout=compact&langs_count=6&theme=white)](https://github.com/worldsource93?tab=repositories)
+
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=wonsewon-main-counter)
 
 <a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/worldsource93" />
